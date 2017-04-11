@@ -1,9 +1,9 @@
 /*
 !.gitignore
 !README.md
-!·Ö¿Ø°å.Annotation
-!·Ö¿Ø°å.PcbDoc
-!·Ö¿Ø°å.PrjPcb
-!·Ö¿Ø°å.PrjPcbStructure
-!·Ö¿Ø°å.SchDoc
+!*.Annotation
+!*.PcbDoc
+!*.PrjPcb
+!*.PrjPcbStructure
+!*.SchDoc
 
